@@ -1,16 +1,43 @@
-# linkarzu-vscolors README
+# linkarzu-vscolors
 
-## Working with Markdown
+## Contents
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Table of contents
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<!-- toc -->
 
-## For more information
+- [Why did I create this theme?](#why-did-i-create-this-theme)
+- [Where can you find my videos?](#where-can-you-find-my-videos)
+- [Follow me on Twitter](#follow-me-on-twitter)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<!-- tocstop -->
 
-**Enjoy!**
+## Why did I create this theme?
+
+- I'm a Neovim user, and created a custom theme that I apply not only in neovim,
+  but in my starship prompt, SketchyBar on macos, kitty, wezterm and tmux
+- I'm not a VScode user, but I open it from time to time and would like for it
+  to have the same colors I have in the rest of my system
+- Planning on recording a video in which I go over VScode markdown setup, so
+  just wanted a theme to show off during the video :wink:
+- Expect changes in the colors as this is the first iteration
+
+## Where can you find my videos?
+
+- My youtube channel is [linkarzu](https://www.youtube.com/@linkarzu)
+- Here's one of my videos, click on the image below
+
+<div align="left">
+    <a href="https://youtu.be/WIATPUK33XU">
+        <img
+          src="https://res.cloudinary.com/daqwsgmx6/image/upload/q_75/v1717456413/youtube/neovim/eldritch-dark.avif"
+          alt="Dark Eldritch colorscheme variant in Neovim"
+          width="600"
+        />
+    </a>
+</div>
+
+## Follow me on Twitter
+
+- Or as kids call it these days "X"
+- [Here's the link](https://x.com/link_arzu){:target="\_blank"}

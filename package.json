@@ -3,6 +3,20 @@
   "displayName": "Linkarzu VScode Colors",
   "description": "Linkarzu VScode theme",
   "version": "0.0.1",
+  "publisher": "linkarzu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linkarzu/linkarzu-vscolors"
+  },
+  "keywords": [
+    "theme",
+    "linkarzu",
+    "linkarzu-colors",
+    "linkarzu-vscolors",
+    "linkarzu theme",
+    "linkarzu vscode",
+    "eldritch-dark"
+  ],
   "engines": {
     "vscode": "^1.94.0"
   },
