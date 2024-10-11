@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/linkarzu/linkarzu-vscolors"
   },
-  "icon": "./media/linkedin.jpg",
+  "icon": "media/linkedin.jpg",
   "keywords": [
     "theme",
     "linkarzu",
