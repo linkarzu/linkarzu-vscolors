@@ -40,4 +40,4 @@
 ## Follow me on Twitter
 
 - Or as kids call it these days "X"
-- [Here's the link](https://x.com/link_arzu){:target="\_blank"}
+- [Here's the link](https://x.com/link_arzu)
