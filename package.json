@@ -1,0 +1,21 @@
+{
+  "name": "linkarzu-vscolors",
+  "displayName": "Linkarzu VScode Colors",
+  "description": "Linkarzu VScode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Linkarzu VScode theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Linkarzu VScode theme-color-theme.json"
+      }
+    ]
+  }
+}
