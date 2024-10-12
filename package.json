@@ -1,6 +1,6 @@
 {
   "name": "linkarzu-vscolors",
-  "displayName": "Linkarzu colors",
+  "displayName": "Linkarzu Colors",
   "description": "The custom colors I use in Neovim, but for VScode",
   "version": "0.4.0",
   "publisher": "linkarzu",
@@ -15,8 +15,11 @@
     "linkarzu-colors",
     "linkarzu-vscolors",
     "linkarzu theme",
+    "linkarzu themes",
     "linkarzu vscode",
-    "eldritch-dark"
+    "eldritch-dark",
+    "linkarzu eldritch dark",
+    "linkarzu colorschemes"
   ],
   "engines": {
     "vscode": "^1.94.0"
@@ -27,9 +30,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Linkarzu VScode theme",
+        "label": "Linkarzu Dark Eldritch",
         "uiTheme": "vs-dark",
-        "path": "./themes/Linkarzu VScode theme-color-theme.json"
+        "path": "./themes/linkarzu-dark-eldritch.json"
       }
     ]
   }
