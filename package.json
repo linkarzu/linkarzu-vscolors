@@ -2,7 +2,7 @@
   "name": "linkarzu-vscolors",
   "displayName": "Linkarzu colors",
   "description": "The custom colors I use in Neovim, but for VScode",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "linkarzu",
   "repository": {
     "type": "git",
