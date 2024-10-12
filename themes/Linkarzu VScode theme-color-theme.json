@@ -586,12 +586,21 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#04d1f9"
+        "foreground": "#EBFAFA"
+      }
+    },
+    {
+      "name": "Markdown - Markup Raw String Inline",
+      "scope": ["markup.inline.raw.string.markdown"],
+      "settings": {
+        "foreground": "#37f499"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline",
-      "scope": ["text.html.markdown markup.inline.raw.markdown"],
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown markup.inline.raw.string.markdown"
+      ],
       "settings": {
         "foreground": "#37f499"
       }
@@ -629,7 +638,7 @@
       "scope": ["markup.bold", "markup.bold string"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#987afb"
       }
     },
     {
