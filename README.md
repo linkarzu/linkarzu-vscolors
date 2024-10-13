@@ -28,7 +28,8 @@
 
 ## [Accompanying video](https://youtu.be/kQ5K9VDFB30)
 
-- Click on the link below
+- If you want to see how the theme looks and also learn how to setup your VScode
+  for markdown editing, click on the link below
 - [Setup VScode like Neovim for editing markdown like a gigachad](https://youtu.be/kQ5K9VDFB30)
 
 ![2024-10-13-at-05-35-29.avif](README-img/2024-10-13-at-05-35-29.avif)
