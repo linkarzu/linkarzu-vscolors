@@ -7,6 +7,7 @@
 <!-- toc -->
 
 - [Why did I create this theme?](#why-did-i-create-this-theme)
+- [Accompanying video](#accompanying-video)
 - [Sample images](#sample-images)
 - [Where can you find my videos?](#where-can-you-find-my-videos)
 - [Follow me on Twitter](#follow-me-on-twitter)
@@ -15,13 +16,22 @@
 
 ## Why did I create this theme?
 
-- I'm a Neovim user, and created a custom theme that I apply not only in neovim,
-  but in my starship prompt, SketchyBar on macos, kitty, wezterm and tmux
-- I'm not a VScode user, but I open it from time to time and would like for it
-  to have the same colors I have in the rest of my system
+- I'm a Neovim user, and created a
+  [custom theme selector](https://youtu.be/SBU2YRv02Mc) that I use to apply my
+  colorscheme not only in neovim, but in my starship prompt, SketchyBar on
+  macos, kitty, wezterm and tmux
+- I'm **NOT** a VScode user, but I open it from time to time and would like for
+  it to have the same colors I have in the rest of my system
 - Planning on recording a video in which I go over VScode markdown setup, so
   just wanted a theme to show off during the video :wink:
 - Expect changes in the colors as this is the first iteration
+
+## [Accompanying video](https://youtu.be/kQ5K9VDFB30)
+
+- Click on the link below
+- [Setup VScode like Neovim for editing markdown like a gigachad](https://youtu.be/kQ5K9VDFB30)
+
+![2024-10-13-at-05-35-29.avif](README-img/2024-10-13-at-05-35-29.avif)
 
 ## Sample images
 
@@ -38,7 +48,7 @@
 ## Where can you find my videos?
 
 - My youtube channel is [linkarzu](https://www.youtube.com/@linkarzu)
-- Here's one of my videos:
+- Here's another one of my videos:
 - [Dark Eldritch colorscheme variant in Neovim](https://youtu.be/WIATPUK33XU)
 
 <div align="left">
